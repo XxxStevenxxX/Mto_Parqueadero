@@ -1,0 +1,19 @@
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Variables de entorno / secretos
+.env
+
+# Editores e IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
